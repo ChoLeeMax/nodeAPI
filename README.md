@@ -7,7 +7,7 @@
 **源代码目录结构**
 **[地址](https://github.com/ChoLeeMax/nodeAPI)**
 
-<a href="https://ecitlm.github.io/SpliderApi/#/">查看文档</a>
+<a href="https://github.com/ChoLeeMax/nodeAPI/#/">查看文档</a>
 
 ![project.png](https://i.loli.net/2017/12/07/5a28ea5c3468d.png)
 
@@ -18,7 +18,7 @@
 ### 部署运行
 
 ```javascript
-$ git clone https://github.com/ecitlm/Node-SpliderApi.git
+$ git clone https://github.com/ChoLeeMax/nodeAPI.git
 $ npm install
 ### 运行
 $ node app.js
